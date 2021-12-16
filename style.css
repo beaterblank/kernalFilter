@@ -1,0 +1,9 @@
+#inp {
+    display: flex;
+    flex-direction: column;
+}
+
+#inp div {
+    display: flex;
+    flex-direction: row;
+}
